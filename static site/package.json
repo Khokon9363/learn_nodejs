@@ -1,0 +1,14 @@
+{
+  "name": "learn-nodejs",
+  "version": "1.0.0",
+  "description": "Learn nodejs",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Hridoy",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
